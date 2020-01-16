@@ -13,7 +13,7 @@ import pandas as pd
 
 
 # List of item names to search on eBay (can add upt to 5 MAX)
-name_list = ["juul starter pack", "Ramen","Nespresso capsules","Air pods apple","audio technica headphones"]
+name_list = ["Python Textbook", "Ramen","Nespresso capsules","Air pods apple","audio technica headphones"]
 all_data=[]
 
 item_name=[]
